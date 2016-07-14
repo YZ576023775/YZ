@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<RAMDirectory>false</RAMDirectory>
+	<Analyzer>org.apache.lucene.analysis.standard.StandardAnalyzer</Analyzer>
+	<EmptyStopWords>true</EmptyStopWords>
+	<indexUrl>d:/indexdir/crawl</indexUrl>
+	<cron>0 0 3 ? * 7/3</cron>
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crawls>
+	<crawl resource="crawl_xiami.xml"/>
+	<crawl resource="crawl_kuwo.xml"/>
+	<crawl resource="crawl_baidu.xml"/>
+
+</crawls>

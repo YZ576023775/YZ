@@ -1,0 +1,592 @@
+Album_____<a href="http://www.kuwo.cn/album/10532/" target="_blank" title="更多你知道我在等你吗的相似歌曲">更多</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/245506/" target="_blank" title="酒干倘卖无--迪克牛仔" onclick="stopMusic();" class="fl">酒干倘卖无</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/245511/" target="_blank" title="水手--迪克牛仔" onclick="stopMusic();" class="fl">水手</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/245516/" target="_blank" title="一样的月光--迪克牛仔" onclick="stopMusic();" class="fl">一样的月光</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/245515/" target="_blank" title="一言难尽--迪克牛仔" onclick="stopMusic();" class="fl">一言难尽</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1025222/" target="_blank" title="原来你什么都不要--迪克牛仔" onclick="stopMusic();" class="fl">原来你什么都不要</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/245519/" target="_blank" title="值得--迪克牛仔" onclick="stopMusic();" class="fl">值得</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1025223/" target="_blank" title="想说--迪克牛仔" onclick="stopMusic();" class="fl">想说</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/245509/" target="_blank" title="你知道我在等你吗--迪克牛仔" onclick="stopMusic();" class="fl">你知道我在等你吗</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1025226/" target="_blank" title="三万英尺--迪克牛仔" onclick="stopMusic();" class="fl">三万英尺</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/245504/" target="_blank" title="爱如潮水--迪克牛仔" onclick="stopMusic();" class="fl">爱如潮水</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%AE%B8%E5%B5%A9/" target="_blank" title="许嵩" class="fr">许嵩</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6946117/" target="_blank" title="不语-(电影《不速之客》主题曲)--许嵩" onclick="stopMusic();" class="fl">不语-(电影《不速之客》主题曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E7%8E%8B%E6%99%B0/" target="_blank" title="王晰" class="fr">王晰</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929994/" target="_blank" title="Besame Mucho--王晰" onclick="stopMusic();" class="fl">Besame Mucho</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%B0%A2%E5%AE%89%E7%90%AA/" target="_blank" title="谢安琪" class="fr">谢安琪</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6916328/" target="_blank" title="山林道--谢安琪" onclick="stopMusic();" class="fl">山林道</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E7%89%9B%E5%A5%B6%40%E5%92%96%E5%95%A1/" target="_blank" title="牛奶@咖啡" class="fr">牛奶@咖啡</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6882123/" target="_blank" title="从你的全世界路过--牛奶@咖啡" onclick="stopMusic();" class="fl">从你的全世界路过</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BB%84%E8%87%B4%E5%88%97/" target="_blank" title="黄致列" class="fr">黄致列</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929987/" target="_blank" title="苦海--黄致列" onclick="stopMusic();" class="fl">苦海</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E4%BF%A1/" target="_blank" title="信" class="fr">信</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929993/" target="_blank" title="末班车--信" onclick="stopMusic();" class="fl">末班车</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E4%BF%A1%E5%93%B2/" target="_blank" title="张信哲" class="fr">张信哲</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929992/" target="_blank" title="爱的箴言--张信哲" onclick="stopMusic();" class="fl">爱的箴言</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BE%90%E4%BD%B3%E8%8E%B9/" target="_blank" title="徐佳莹" class="fr">徐佳莹</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6896346/" target="_blank" title="遗忘之前-(电视剧《女医明妃传》插曲)--徐佳莹" onclick="stopMusic();" class="fl">遗忘之前-(电视剧《女医明妃传》插曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E6%9D%8E%E5%85%8B%E5%8B%A4/" target="_blank" title="李克勤" class="fr">李克勤</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929991/" target="_blank" title="友情岁月--李克勤" onclick="stopMusic();" class="fl">友情岁月</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%B0%9A%E9%9B%AF%E5%A9%95/" target="_blank" title="尚雯婕" class="fr">尚雯婕</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6917658/" target="_blank" title="为爱归来-(电影《卧虎藏龙:青冥宝剑》推广曲)--尚雯婕" onclick="stopMusic();" class="fl">为爱归来-(电影《卧虎藏龙:青冥宝剑》推广曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%96%9B%E4%B9%8B%E8%B0%A6/" target="_blank" title="薛之谦" class="fr">薛之谦</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6468891/" target="_blank" title="演员--薛之谦" onclick="stopMusic();" class="fl">演员</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E6%9D%A8%E5%AE%97%E7%BA%AC/" target="_blank" title="杨宗纬" class="fr">杨宗纬</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6660691/" target="_blank" title="一次就好-(电影《夏洛特烦恼》暖水曲)--杨宗纬" onclick="stopMusic();" class="fl">一次就好-(电影《夏洛特烦恼》暖水曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E8%B5%AB%E5%AE%A3/" target="_blank" title="张赫宣" class="fr">张赫宣</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6716077/" target="_blank" title="我们不该这样的-(电视剧《北上广不相信眼泪》片尾曲)--张赫宣" onclick="stopMusic();" class="fl">我们不该这样的-(电视剧《北上广不相信眼泪》片尾曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%82%A3%E8%8B%B1/" target="_blank" title="那英" class="fr">那英</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6418102/" target="_blank" title="默-(电影《何以笙箫默》插曲)--那英" onclick="stopMusic();" class="fl">默-(电影《何以笙箫默》插曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%AD%8F%E6%96%B0%E9%9B%A8/" target="_blank" title="魏新雨" class="fr">魏新雨</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4762774/" target="_blank" title="恋人心--魏新雨" onclick="stopMusic();" class="fl">恋人心</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BD%90%E6%99%A8/" target="_blank" title="齐晨" class="fr">齐晨</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3638735/" target="_blank" title="咱们结婚吧--齐晨" onclick="stopMusic();" class="fl">咱们结婚吧</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E6%9D%8E%E8%8D%A3%E6%B5%A9/" target="_blank" title="李荣浩" class="fr">李荣浩</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3514083/" target="_blank" title="李白--李荣浩" onclick="stopMusic();" class="fl">李白</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B/" target="_blank" title="G.E.M.邓紫棋" class="fr">G.E.M.邓紫棋</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/5245130/" target="_blank" title="喜欢你 (原唱: Beyond)--G.E.M.邓紫棋" onclick="stopMusic();" class="fl">喜欢你 (原唱: Beyond)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BA%84%E5%BF%83%E5%A6%8D/" target="_blank" title="庄心妍" class="fr">庄心妍</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6657692/" target="_blank" title="走着走着就散了--庄心妍" onclick="stopMusic();" class="fl">走着走着就散了</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%AE%B8%E5%B7%8D/" target="_blank" title="许巍" class="fr">许巍</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/100062/" target="_blank" title="曾经的你--许巍" onclick="stopMusic();" class="fl">曾经的你</a>
+Music [mu_url=http://www.kuwo.cn/yinyue/59304/, music=梦醒时分]
+Music [mu_url=http://www.kuwo.cn/yinyue/255912/, music=风飞沙]
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="歌手频道">歌手</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔">迪克牛仔</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" title="迪克牛仔概览" target="_blank">概览</a>
+Mv_____<a href="http://www.kuwo.cn/mv/59304/" target="_blank" title="观看梦醒时分mv" onclick="stopMusic();" class="btn_icon mv" style="margin-right:0px"></a>
+Album_____<a href="http://www.kuwo.cn/album/117/" target="_blank" title="别港">别港</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="查看迪克牛仔详细信息" class="ck">查看歌手信息&gt;&gt;</a>
+Mv_____<a href="http://www.kuwo.cn/mv/313033/" target="_blank" title="三万英尺" class="img"><img src="http://image.kuwo.cn/www/default/140-79-mv.jpg" lazy_src="http://img1.kwcdn.kuwo.cn:81/wmvpic/140/89/46/2428182533.jpg" onload="loadPic(this)" onerror="getDefaultPic(this,120,90,'mv')" width="140" height="78" alt="三万英尺"> <span class="play"><img src="http://image.kuwo.cn/yueku/play.png" width="27" height="27" alt="播放三万英尺"></span> </a>
+Mv_____<a href="http://www.kuwo.cn/mv/313033/" target="_blank" title="三万英尺" class="m_name">三万英尺</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="迪克牛仔" class="s_name">迪克牛仔</a>
+Mv_____<a href="http://www.kuwo.cn/mv/59303/" target="_blank" title="有多少爱可以重来" class="img"><img src="http://image.kuwo.cn/www/default/140-79-mv.jpg" lazy_src="http://img1.kwcdn.kuwo.cn:81/wmvpic/140/69/93/3338929331.jpg" onload="loadPic(this)" onerror="getDefaultPic(this,120,90,'mv')" width="140" height="78" alt="有多少爱可以重来"> <span class="play"><img src="http://image.kuwo.cn/yueku/play.png" width="27" height="27" alt="播放有多少爱可以重来"></span> </a>
+Mv_____<a href="http://www.kuwo.cn/mv/59303/" target="_blank" title="有多少爱可以重来" class="m_name">有多少爱可以重来</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="迪克牛仔" class="s_name">迪克牛仔</a>
+Mv_____<a href="http://www.kuwo.cn/mv/255898/" target="_blank" title="放手去爱" class="img"><img src="http://image.kuwo.cn/www/default/140-79-mv.jpg" lazy_src="http://img1.kwcdn.kuwo.cn:81/wmvpic/140/31/76/4029436354.jpg" onload="loadPic(this)" onerror="getDefaultPic(this,120,90,'mv')" width="140" height="78" alt="放手去爱"> <span class="play"><img src="http://image.kuwo.cn/yueku/play.png" width="27" height="27" alt="播放放手去爱"></span> </a>
+Mv_____<a href="http://www.kuwo.cn/mv/255898/" target="_blank" title="放手去爱" class="m_name">放手去爱</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="迪克牛仔" class="s_name">迪克牛仔</a>
+Mv_____<a href="http://www.kuwo.cn/mv/59314/" target="_blank" title="热情的沙漠" class="img"><img src="http://image.kuwo.cn/www/default/140-79-mv.jpg" lazy_src="http://img1.kwcdn.kuwo.cn:81/wmvpic/140/23/36/3861300257.jpg" onload="loadPic(this)" onerror="getDefaultPic(this,120,90,'mv')" width="140" height="78" alt="热情的沙漠"> <span class="play"><img src="http://image.kuwo.cn/yueku/play.png" width="27" height="27" alt="播放热情的沙漠"></span> </a>
+Mv_____<a href="http://www.kuwo.cn/mv/59314/" target="_blank" title="热情的沙漠" class="m_name">热情的沙漠</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="迪克牛仔" class="s_name">迪克牛仔</a>
+Album_____<a href="http://www.kuwo.cn/album/7019/" target="_blank" title="黄金十载全精选" class="img"><img src="http://image.kuwo.cn/www/default/180-180-album.jpg" width="155" height="155" lazy_src="http://img1.kuwo.cn/star/albumcover/180/78/78/3298554615.jpg" onload="loadPic(this);" onerror="getDefaultPic(this,180,180,'album')" alt="黄金十载全精选"></a>
+Album_____<a href="http://www.kuwo.cn/album/7019/" target="_blank" title="黄金十载全精选" class="m_name">黄金十载全精选</a>
+Album_____<a href="http://www.kuwo.cn/album/117/" target="_blank" title="别港" class="img"><img src="http://image.kuwo.cn/www/default/180-180-album.jpg" width="155" height="155" lazy_src="http://img4.kuwo.cn/star/albumcover/180/25/9/3373718705.jpg" onload="loadPic(this);" onerror="getDefaultPic(this,180,180,'album')" alt="别港"></a>
+Album_____<a href="http://www.kuwo.cn/album/117/" target="_blank" title="别港" class="m_name">别港</a>
+Album_____<a href="http://www.kuwo.cn/album/10756/" target="_blank" title="风飞沙" class="img"><img src="http://image.kuwo.cn/www/default/180-180-album.jpg" width="155" height="155" lazy_src="http://img3.kuwo.cn/star/albumcover/180/34/98/2174629385.jpg" onload="loadPic(this);" onerror="getDefaultPic(this,180,180,'album')" alt="风飞沙"></a>
+Album_____<a href="http://www.kuwo.cn/album/10756/" target="_blank" title="风飞沙" class="m_name">风飞沙</a>
+Album_____<a href="http://www.kuwo.cn/album/10532/" target="_blank" title="永远的朋友 迪克牛仔 声影相随永恒系列" class="img"><img src="http://image.kuwo.cn/www/default/180-180-album.jpg" width="155" height="155" lazy_src="http://img1.kuwo.cn/star/albumcover/180/61/38/1241574883.jpg" onload="loadPic(this);" onerror="getDefaultPic(this,180,180,'album')" alt="永远的朋友 迪克牛仔 声影相随永恒系列"></a>
+Album_____<a href="http://www.kuwo.cn/album/10532/" target="_blank" title="永远的朋友 迪克牛仔 声影相随永恒系列" class="m_name">永远的朋友 迪克牛仔 声影相随永恒系列</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1025226/" target="_blank" title="三万英尺--迪克牛仔" onclick="stopMusic();" class="fl">三万英尺</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6725901/" target="_blank" title="四海-(电视剧《青岛往事》主题曲)--迪克牛仔" onclick="stopMusic();" class="fl">四海-(电视剧《青岛往事》主题曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6628344/" target="_blank" title="四海--迪克牛仔" onclick="stopMusic();" class="fl">四海</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/144082/" target="_blank" title="有多少爱可以重来--迪克牛仔" onclick="stopMusic();" class="fl">有多少爱可以重来</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/217206/" target="_blank" title="第一号伤心人--迪克牛仔" onclick="stopMusic();" class="fl">第一号伤心人</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6851229/" target="_blank" title="蒸发太平洋-(电影《蒸发太平洋》中文版主题曲》)--迪克牛仔" onclick="stopMusic();" class="fl">蒸发太平洋-(电影《蒸发太平洋》中文版主题曲》)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/144085/" target="_blank" title="心痛--迪克牛仔" onclick="stopMusic();" class="fl">心痛</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/76615/" target="_blank" title="值得--迪克牛仔" onclick="stopMusic();" class="fl">值得</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/245513/" target="_blank" title="无力去爱谁--迪克牛仔" onclick="stopMusic();" class="fl">无力去爱谁</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4059049/" target="_blank" title="酒干倘卖无--迪克牛仔" onclick="stopMusic();" class="fl">酒干倘卖无</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%8A%A8%E5%8A%9B%E7%81%AB%E8%BD%A6/" target="_blank" title="动力火车" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="动力火车" width="55" height="55" lazy_src="http://img2.kuwo.cn/star/starheads/55/14/95/2328688149.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%8A%A8%E5%8A%9B%E7%81%AB%E8%BD%A6/" target="_blank" title="动力火车" class="s_name">动力火车</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E5%AE%87/" target="_blank" title="张宇" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="张宇" width="55" height="55" lazy_src="http://img3.kuwo.cn/star/starheads/55/56/20/2592783825.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E5%AE%87/" target="_blank" title="张宇" class="s_name">张宇</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%B5%B5%E4%BC%A0/" target="_blank" title="赵传" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="赵传" width="55" height="55" lazy_src="http://img2.kuwo.cn/star/starheads/55/8/22/650826146.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%B5%B5%E4%BC%A0/" target="_blank" title="赵传" class="s_name">赵传</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%A7%9C%E8%82%B2%E6%81%92/" target="_blank" title="姜育恒" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="姜育恒" width="55" height="55" lazy_src="http://img3.kuwo.cn/star/starheads/55/36/81/254090367.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%A7%9C%E8%82%B2%E6%81%92/" target="_blank" title="姜育恒" class="s_name">姜育恒</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BB%84%E5%93%81%E6%BA%90/" target="_blank" title="黄品源" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="黄品源" width="55" height="55" lazy_src="http://img2.kuwo.cn/star/starheads/55/88/26/2151162060.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BB%84%E5%93%81%E6%BA%90/" target="_blank" title="黄品源" class="s_name">黄品源</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%88%80%E9%83%8E/" target="_blank" title="刀郎" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="刀郎" width="55" height="55" lazy_src="http://img2.kuwo.cn/star/starheads/55/36/32/1940854122.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%88%80%E9%83%8E/" target="_blank" title="刀郎" class="s_name">刀郎</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BD%90%E7%A7%A6/" target="_blank" title="齐秦" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="齐秦" width="55" height="55" lazy_src="http://img2.kuwo.cn/star/starheads/55/36/68/2396297885.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BD%90%E7%A7%A6/" target="_blank" title="齐秦" class="s_name">齐秦</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%83%91%E6%99%BA%E5%8C%96/" target="_blank" title="郑智化" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="郑智化" width="55" height="55" lazy_src="http://img1.kuwo.cn/star/starheads/55/26/11/520647487.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%83%91%E6%99%BA%E5%8C%96/" target="_blank" title="郑智化" class="s_name">郑智化</a>
+Album_____<a href="http://www.kuwo.cn/album/117/" target="_blank" title="更多梦醒时分的相似歌曲">更多</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/59313/" target="_blank" title="让我一次爱个够--迪克牛仔" onclick="stopMusic();" class="fl">让我一次爱个够</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/59312/" target="_blank" title="你知道我在等你吗--迪克牛仔" onclick="stopMusic();" class="fl">你知道我在等你吗</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/59309/" target="_blank" title="解脱--迪克牛仔" onclick="stopMusic();" class="fl">解脱</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/59315/" target="_blank" title="甜蜜蜜--迪克牛仔" onclick="stopMusic();" class="fl">甜蜜蜜</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/59303/" target="_blank" title="有多少爱可以重来--迪克牛仔" onclick="stopMusic();" class="fl">有多少爱可以重来</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/295369/" target="_blank" title="一样的月光--迪克牛仔" onclick="stopMusic();" class="fl">一样的月光</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/59316/" target="_blank" title="原来你什么都不要--迪克牛仔" onclick="stopMusic();" class="fl">原来你什么都不要</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/59308/" target="_blank" title="浪人情歌--迪克牛仔" onclick="stopMusic();" class="fl">浪人情歌</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/59305/" target="_blank" title="无力去爱谁--迪克牛仔" onclick="stopMusic();" class="fl">无力去爱谁</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/59304/" target="_blank" title="梦醒时分--迪克牛仔" onclick="stopMusic();" class="fl">梦醒时分</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%AE%B8%E5%B5%A9/" target="_blank" title="许嵩" class="fr">许嵩</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6946117/" target="_blank" title="不语-(电影《不速之客》主题曲)--许嵩" onclick="stopMusic();" class="fl">不语-(电影《不速之客》主题曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E7%8E%8B%E6%99%B0/" target="_blank" title="王晰" class="fr">王晰</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929994/" target="_blank" title="Besame Mucho--王晰" onclick="stopMusic();" class="fl">Besame Mucho</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%B0%A2%E5%AE%89%E7%90%AA/" target="_blank" title="谢安琪" class="fr">谢安琪</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6916328/" target="_blank" title="山林道--谢安琪" onclick="stopMusic();" class="fl">山林道</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E7%89%9B%E5%A5%B6%40%E5%92%96%E5%95%A1/" target="_blank" title="牛奶@咖啡" class="fr">牛奶@咖啡</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6882123/" target="_blank" title="从你的全世界路过--牛奶@咖啡" onclick="stopMusic();" class="fl">从你的全世界路过</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BB%84%E8%87%B4%E5%88%97/" target="_blank" title="黄致列" class="fr">黄致列</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929987/" target="_blank" title="苦海--黄致列" onclick="stopMusic();" class="fl">苦海</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E4%BF%A1/" target="_blank" title="信" class="fr">信</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929993/" target="_blank" title="末班车--信" onclick="stopMusic();" class="fl">末班车</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E4%BF%A1%E5%93%B2/" target="_blank" title="张信哲" class="fr">张信哲</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929992/" target="_blank" title="爱的箴言--张信哲" onclick="stopMusic();" class="fl">爱的箴言</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BE%90%E4%BD%B3%E8%8E%B9/" target="_blank" title="徐佳莹" class="fr">徐佳莹</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6896346/" target="_blank" title="遗忘之前-(电视剧《女医明妃传》插曲)--徐佳莹" onclick="stopMusic();" class="fl">遗忘之前-(电视剧《女医明妃传》插曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E6%9D%8E%E5%85%8B%E5%8B%A4/" target="_blank" title="李克勤" class="fr">李克勤</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929991/" target="_blank" title="友情岁月--李克勤" onclick="stopMusic();" class="fl">友情岁月</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%B0%9A%E9%9B%AF%E5%A9%95/" target="_blank" title="尚雯婕" class="fr">尚雯婕</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6917658/" target="_blank" title="为爱归来-(电影《卧虎藏龙:青冥宝剑》推广曲)--尚雯婕" onclick="stopMusic();" class="fl">为爱归来-(电影《卧虎藏龙:青冥宝剑》推广曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%96%9B%E4%B9%8B%E8%B0%A6/" target="_blank" title="薛之谦" class="fr">薛之谦</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6468891/" target="_blank" title="演员--薛之谦" onclick="stopMusic();" class="fl">演员</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E6%9D%A8%E5%AE%97%E7%BA%AC/" target="_blank" title="杨宗纬" class="fr">杨宗纬</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6660691/" target="_blank" title="一次就好-(电影《夏洛特烦恼》暖水曲)--杨宗纬" onclick="stopMusic();" class="fl">一次就好-(电影《夏洛特烦恼》暖水曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E8%B5%AB%E5%AE%A3/" target="_blank" title="张赫宣" class="fr">张赫宣</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6716077/" target="_blank" title="我们不该这样的-(电视剧《北上广不相信眼泪》片尾曲)--张赫宣" onclick="stopMusic();" class="fl">我们不该这样的-(电视剧《北上广不相信眼泪》片尾曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%82%A3%E8%8B%B1/" target="_blank" title="那英" class="fr">那英</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6418102/" target="_blank" title="默-(电影《何以笙箫默》插曲)--那英" onclick="stopMusic();" class="fl">默-(电影《何以笙箫默》插曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%AD%8F%E6%96%B0%E9%9B%A8/" target="_blank" title="魏新雨" class="fr">魏新雨</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4762774/" target="_blank" title="恋人心--魏新雨" onclick="stopMusic();" class="fl">恋人心</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BD%90%E6%99%A8/" target="_blank" title="齐晨" class="fr">齐晨</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3638735/" target="_blank" title="咱们结婚吧--齐晨" onclick="stopMusic();" class="fl">咱们结婚吧</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E6%9D%8E%E8%8D%A3%E6%B5%A9/" target="_blank" title="李荣浩" class="fr">李荣浩</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3514083/" target="_blank" title="李白--李荣浩" onclick="stopMusic();" class="fl">李白</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B/" target="_blank" title="G.E.M.邓紫棋" class="fr">G.E.M.邓紫棋</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/5245130/" target="_blank" title="喜欢你 (原唱: Beyond)--G.E.M.邓紫棋" onclick="stopMusic();" class="fl">喜欢你 (原唱: Beyond)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BA%84%E5%BF%83%E5%A6%8D/" target="_blank" title="庄心妍" class="fr">庄心妍</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6657692/" target="_blank" title="走着走着就散了--庄心妍" onclick="stopMusic();" class="fl">走着走着就散了</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%AE%B8%E5%B7%8D/" target="_blank" title="许巍" class="fr">许巍</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/100062/" target="_blank" title="曾经的你--许巍" onclick="stopMusic();" class="fl">曾经的你</a>
+Artist [ar_urlhttp://www.kuwo.cn/mingxing/%E5%8A%A8%E5%8A%9B%E7%81%AB%E8%BD%A6/, artist=动力火车]
+Music_____<a href="http://www.kuwo.cn/yinyue/6854746?catalog=yueku2016" target="_blank">当(CCTV音乐频道)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4603146?catalog=yueku2016" target="_blank">最后一滴泪</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4404411?catalog=yueku2016" target="_blank">酒干倘卖无</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6196397?catalog=yueku2016" target="_blank">那就这样吧DJ(2k14 Mix 气氛Funky)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4654773?catalog=yueku2016" target="_blank">有多少爱可以重来</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/86359?catalog=yueku2016" target="_blank">痛</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/293823?catalog=yueku2016" target="_blank">我的心上人</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/215089?catalog=yueku2016" target="_blank">火柴天堂(Live)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4404417?catalog=yueku2016" target="_blank">天空</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4650297?catalog=yueku2016" target="_blank">第一滴泪 (岑溪Dj海少 Mix)男CLUB</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4756699?catalog=yueku2016" target="_blank">第一滴泪 Dj大斌 Remix Dj520</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4460498?catalog=yueku2016" target="_blank">什么都别说</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/215081?catalog=yueku2016" target="_blank">姑娘的酒窝(Live)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/645124?catalog=yueku2016" target="_blank">我爱你爱了那么久</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4764383?catalog=yueku2016" target="_blank">dj(酒碎的探戈 2001 小春)</a>
+Artist [ar_urlhttp://www.kuwo.cn/mingxing/%E5%BC%A0%E5%AE%87/, artist=张宇]
+Music_____<a href="http://www.kuwo.cn/yinyue/61226?catalog=yueku2016" target="_blank">雨一直下</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/105287?catalog=yueku2016" target="_blank">给你们</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/105279?catalog=yueku2016" target="_blank">曲终人散</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/105276?catalog=yueku2016" target="_blank">趁早 (2005版)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/158361?catalog=yueku2016" target="_blank">月亮惹的祸</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/105274?catalog=yueku2016" target="_blank">一个人的天荒地老</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/105269?catalog=yueku2016" target="_blank">一言难尽</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/158344?catalog=yueku2016" target="_blank">小小的太阳</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/105267?catalog=yueku2016" target="_blank">囚鸟</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/105271?catalog=yueku2016" target="_blank">大女人</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/104987?catalog=yueku2016" target="_blank">男人的好 (2005版)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1182346?catalog=yueku2016" target="_blank">心术(《心术》电视剧主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/158348?catalog=yueku2016" target="_blank">单恋一枝花</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/228948?catalog=yueku2016" target="_blank">雨一直下</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/5076063?catalog=yueku2016" target="_blank">用心良苦</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="歌手频道">歌手</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔">迪克牛仔</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" title="迪克牛仔概览" target="_blank">概览</a>
+Mv_____<a href="http://www.kuwo.cn/mv/255912/" target="_blank" title="观看风飞沙mv" onclick="stopMusic();" class="btn_icon mv" style="margin-right:0px"></a>
+Album_____<a href="http://www.kuwo.cn/album/10756/" target="_blank" title="风飞沙">风飞沙</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="查看迪克牛仔详细信息" class="ck">查看歌手信息&gt;&gt;</a>
+Mv_____<a href="http://www.kuwo.cn/mv/313033/" target="_blank" title="三万英尺" class="img"><img src="http://image.kuwo.cn/www/default/140-79-mv.jpg" lazy_src="http://img1.kwcdn.kuwo.cn:81/wmvpic/140/89/46/2428182533.jpg" onload="loadPic(this)" onerror="getDefaultPic(this,120,90,'mv')" width="140" height="78" alt="三万英尺"> <span class="play"><img src="http://image.kuwo.cn/yueku/play.png" width="27" height="27" alt="播放三万英尺"></span> </a>
+Mv_____<a href="http://www.kuwo.cn/mv/313033/" target="_blank" title="三万英尺" class="m_name">三万英尺</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="迪克牛仔" class="s_name">迪克牛仔</a>
+Mv_____<a href="http://www.kuwo.cn/mv/59303/" target="_blank" title="有多少爱可以重来" class="img"><img src="http://image.kuwo.cn/www/default/140-79-mv.jpg" lazy_src="http://img1.kwcdn.kuwo.cn:81/wmvpic/140/69/93/3338929331.jpg" onload="loadPic(this)" onerror="getDefaultPic(this,120,90,'mv')" width="140" height="78" alt="有多少爱可以重来"> <span class="play"><img src="http://image.kuwo.cn/yueku/play.png" width="27" height="27" alt="播放有多少爱可以重来"></span> </a>
+Mv_____<a href="http://www.kuwo.cn/mv/59303/" target="_blank" title="有多少爱可以重来" class="m_name">有多少爱可以重来</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="迪克牛仔" class="s_name">迪克牛仔</a>
+Mv_____<a href="http://www.kuwo.cn/mv/255898/" target="_blank" title="放手去爱" class="img"><img src="http://image.kuwo.cn/www/default/140-79-mv.jpg" lazy_src="http://img1.kwcdn.kuwo.cn:81/wmvpic/140/31/76/4029436354.jpg" onload="loadPic(this)" onerror="getDefaultPic(this,120,90,'mv')" width="140" height="78" alt="放手去爱"> <span class="play"><img src="http://image.kuwo.cn/yueku/play.png" width="27" height="27" alt="播放放手去爱"></span> </a>
+Mv_____<a href="http://www.kuwo.cn/mv/255898/" target="_blank" title="放手去爱" class="m_name">放手去爱</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="迪克牛仔" class="s_name">迪克牛仔</a>
+Mv_____<a href="http://www.kuwo.cn/mv/59314/" target="_blank" title="热情的沙漠" class="img"><img src="http://image.kuwo.cn/www/default/140-79-mv.jpg" lazy_src="http://img1.kwcdn.kuwo.cn:81/wmvpic/140/23/36/3861300257.jpg" onload="loadPic(this)" onerror="getDefaultPic(this,120,90,'mv')" width="140" height="78" alt="热情的沙漠"> <span class="play"><img src="http://image.kuwo.cn/yueku/play.png" width="27" height="27" alt="播放热情的沙漠"></span> </a>
+Mv_____<a href="http://www.kuwo.cn/mv/59314/" target="_blank" title="热情的沙漠" class="m_name">热情的沙漠</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="迪克牛仔" class="s_name">迪克牛仔</a>
+Album_____<a href="http://www.kuwo.cn/album/7019/" target="_blank" title="黄金十载全精选" class="img"><img src="http://image.kuwo.cn/www/default/180-180-album.jpg" width="155" height="155" lazy_src="http://img3.kuwo.cn/star/albumcover/180/78/78/3298554615.jpg" onload="loadPic(this);" onerror="getDefaultPic(this,180,180,'album')" alt="黄金十载全精选"></a>
+Album_____<a href="http://www.kuwo.cn/album/7019/" target="_blank" title="黄金十载全精选" class="m_name">黄金十载全精选</a>
+Album_____<a href="http://www.kuwo.cn/album/117/" target="_blank" title="别港" class="img"><img src="http://image.kuwo.cn/www/default/180-180-album.jpg" width="155" height="155" lazy_src="http://img4.kuwo.cn/star/albumcover/180/25/9/3373718705.jpg" onload="loadPic(this);" onerror="getDefaultPic(this,180,180,'album')" alt="别港"></a>
+Album_____<a href="http://www.kuwo.cn/album/117/" target="_blank" title="别港" class="m_name">别港</a>
+Album_____<a href="http://www.kuwo.cn/album/10756/" target="_blank" title="风飞沙" class="img"><img src="http://image.kuwo.cn/www/default/180-180-album.jpg" width="155" height="155" lazy_src="http://img2.kuwo.cn/star/albumcover/180/34/98/2174629385.jpg" onload="loadPic(this);" onerror="getDefaultPic(this,180,180,'album')" alt="风飞沙"></a>
+Album_____<a href="http://www.kuwo.cn/album/10756/" target="_blank" title="风飞沙" class="m_name">风飞沙</a>
+Album_____<a href="http://www.kuwo.cn/album/10532/" target="_blank" title="永远的朋友 迪克牛仔 声影相随永恒系列" class="img"><img src="http://image.kuwo.cn/www/default/180-180-album.jpg" width="155" height="155" lazy_src="http://img1.kuwo.cn/star/albumcover/180/61/38/1241574883.jpg" onload="loadPic(this);" onerror="getDefaultPic(this,180,180,'album')" alt="永远的朋友 迪克牛仔 声影相随永恒系列"></a>
+Album_____<a href="http://www.kuwo.cn/album/10532/" target="_blank" title="永远的朋友 迪克牛仔 声影相随永恒系列" class="m_name">永远的朋友 迪克牛仔 声影相随永恒系列</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/217203/" target="_blank" title="我这个你不爱的人--迪克牛仔" onclick="stopMusic();" class="fl">我这个你不爱的人</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/144085/" target="_blank" title="心痛--迪克牛仔" onclick="stopMusic();" class="fl">心痛</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/76615/" target="_blank" title="值得--迪克牛仔" onclick="stopMusic();" class="fl">值得</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6725901/" target="_blank" title="四海-(电视剧《青岛往事》主题曲)--迪克牛仔" onclick="stopMusic();" class="fl">四海-(电视剧《青岛往事》主题曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/255898/" target="_blank" title="放手去爱--迪克牛仔" onclick="stopMusic();" class="fl">放手去爱</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4059049/" target="_blank" title="酒干倘卖无--迪克牛仔" onclick="stopMusic();" class="fl">酒干倘卖无</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/245513/" target="_blank" title="无力去爱谁--迪克牛仔" onclick="stopMusic();" class="fl">无力去爱谁</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6851229/" target="_blank" title="蒸发太平洋-(电影《蒸发太平洋》中文版主题曲》)--迪克牛仔" onclick="stopMusic();" class="fl">蒸发太平洋-(电影《蒸发太平洋》中文版主题曲》)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1025226/" target="_blank" title="三万英尺--迪克牛仔" onclick="stopMusic();" class="fl">三万英尺</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/217206/" target="_blank" title="第一号伤心人--迪克牛仔" onclick="stopMusic();" class="fl">第一号伤心人</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%8A%A8%E5%8A%9B%E7%81%AB%E8%BD%A6/" target="_blank" title="动力火车" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="动力火车" width="55" height="55" lazy_src="http://img2.kuwo.cn/star/starheads/55/14/95/2328688149.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%8A%A8%E5%8A%9B%E7%81%AB%E8%BD%A6/" target="_blank" title="动力火车" class="s_name">动力火车</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E5%AE%87/" target="_blank" title="张宇" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="张宇" width="55" height="55" lazy_src="http://img4.kuwo.cn/star/starheads/55/56/20/2592783825.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E5%AE%87/" target="_blank" title="张宇" class="s_name">张宇</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%B5%B5%E4%BC%A0/" target="_blank" title="赵传" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="赵传" width="55" height="55" lazy_src="http://img1.kuwo.cn/star/starheads/55/8/22/650826146.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%B5%B5%E4%BC%A0/" target="_blank" title="赵传" class="s_name">赵传</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%A7%9C%E8%82%B2%E6%81%92/" target="_blank" title="姜育恒" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="姜育恒" width="55" height="55" lazy_src="http://img1.kuwo.cn/star/starheads/55/36/81/254090367.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%A7%9C%E8%82%B2%E6%81%92/" target="_blank" title="姜育恒" class="s_name">姜育恒</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BB%84%E5%93%81%E6%BA%90/" target="_blank" title="黄品源" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="黄品源" width="55" height="55" lazy_src="http://img1.kuwo.cn/star/starheads/55/88/26/2151162060.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BB%84%E5%93%81%E6%BA%90/" target="_blank" title="黄品源" class="s_name">黄品源</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%88%80%E9%83%8E/" target="_blank" title="刀郎" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="刀郎" width="55" height="55" lazy_src="http://img3.kuwo.cn/star/starheads/55/36/32/1940854122.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%88%80%E9%83%8E/" target="_blank" title="刀郎" class="s_name">刀郎</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BD%90%E7%A7%A6/" target="_blank" title="齐秦" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="齐秦" width="55" height="55" lazy_src="http://img3.kuwo.cn/star/starheads/55/36/68/2396297885.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BD%90%E7%A7%A6/" target="_blank" title="齐秦" class="s_name">齐秦</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%83%91%E6%99%BA%E5%8C%96/" target="_blank" title="郑智化" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="郑智化" width="55" height="55" lazy_src="http://img4.kuwo.cn/star/starheads/55/26/11/520647487.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%83%91%E6%99%BA%E5%8C%96/" target="_blank" title="郑智化" class="s_name">郑智化</a>
+Album_____<a href="http://www.kuwo.cn/album/10756/" target="_blank" title="更多风飞沙的相似歌曲">更多</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/263424/" target="_blank" title="风飞沙--迪克牛仔" onclick="stopMusic();" class="fl">风飞沙</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/380810/" target="_blank" title="老爹--迪克牛仔" onclick="stopMusic();" class="fl">老爹</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/242303/" target="_blank" title="可以不流泪--迪克牛仔" onclick="stopMusic();" class="fl">可以不流泪</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/255912/" target="_blank" title="风飞沙--迪克牛仔" onclick="stopMusic();" class="fl">风飞沙</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/255905/" target="_blank" title="影子--迪克牛仔" onclick="stopMusic();" class="fl">影子</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/545662/" target="_blank" title="老爹--迪克牛仔" onclick="stopMusic();" class="fl">老爹</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/255918/" target="_blank" title="迷途--迪克牛仔" onclick="stopMusic();" class="fl">迷途</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/255898/" target="_blank" title="放手去爱--迪克牛仔" onclick="stopMusic();" class="fl">放手去爱</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/255894/" target="_blank" title="为爱向前跑--迪克牛仔" onclick="stopMusic();" class="fl">为爱向前跑</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/545661/" target="_blank" title="光辉岁月--迪克牛仔" onclick="stopMusic();" class="fl">光辉岁月</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%AE%B8%E5%B5%A9/" target="_blank" title="许嵩" class="fr">许嵩</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6946117/" target="_blank" title="不语-(电影《不速之客》主题曲)--许嵩" onclick="stopMusic();" class="fl">不语-(电影《不速之客》主题曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E7%8E%8B%E6%99%B0/" target="_blank" title="王晰" class="fr">王晰</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929994/" target="_blank" title="Besame Mucho--王晰" onclick="stopMusic();" class="fl">Besame Mucho</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%B0%A2%E5%AE%89%E7%90%AA/" target="_blank" title="谢安琪" class="fr">谢安琪</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6916328/" target="_blank" title="山林道--谢安琪" onclick="stopMusic();" class="fl">山林道</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E7%89%9B%E5%A5%B6%40%E5%92%96%E5%95%A1/" target="_blank" title="牛奶@咖啡" class="fr">牛奶@咖啡</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6882123/" target="_blank" title="从你的全世界路过--牛奶@咖啡" onclick="stopMusic();" class="fl">从你的全世界路过</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BB%84%E8%87%B4%E5%88%97/" target="_blank" title="黄致列" class="fr">黄致列</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929987/" target="_blank" title="苦海--黄致列" onclick="stopMusic();" class="fl">苦海</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E4%BF%A1/" target="_blank" title="信" class="fr">信</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929993/" target="_blank" title="末班车--信" onclick="stopMusic();" class="fl">末班车</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E4%BF%A1%E5%93%B2/" target="_blank" title="张信哲" class="fr">张信哲</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929992/" target="_blank" title="爱的箴言--张信哲" onclick="stopMusic();" class="fl">爱的箴言</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BE%90%E4%BD%B3%E8%8E%B9/" target="_blank" title="徐佳莹" class="fr">徐佳莹</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6896346/" target="_blank" title="遗忘之前-(电视剧《女医明妃传》插曲)--徐佳莹" onclick="stopMusic();" class="fl">遗忘之前-(电视剧《女医明妃传》插曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E6%9D%8E%E5%85%8B%E5%8B%A4/" target="_blank" title="李克勤" class="fr">李克勤</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929991/" target="_blank" title="友情岁月--李克勤" onclick="stopMusic();" class="fl">友情岁月</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%B0%9A%E9%9B%AF%E5%A9%95/" target="_blank" title="尚雯婕" class="fr">尚雯婕</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6917658/" target="_blank" title="为爱归来-(电影《卧虎藏龙:青冥宝剑》推广曲)--尚雯婕" onclick="stopMusic();" class="fl">为爱归来-(电影《卧虎藏龙:青冥宝剑》推广曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%96%9B%E4%B9%8B%E8%B0%A6/" target="_blank" title="薛之谦" class="fr">薛之谦</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6468891/" target="_blank" title="演员--薛之谦" onclick="stopMusic();" class="fl">演员</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E6%9D%A8%E5%AE%97%E7%BA%AC/" target="_blank" title="杨宗纬" class="fr">杨宗纬</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6660691/" target="_blank" title="一次就好-(电影《夏洛特烦恼》暖水曲)--杨宗纬" onclick="stopMusic();" class="fl">一次就好-(电影《夏洛特烦恼》暖水曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E8%B5%AB%E5%AE%A3/" target="_blank" title="张赫宣" class="fr">张赫宣</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6716077/" target="_blank" title="我们不该这样的-(电视剧《北上广不相信眼泪》片尾曲)--张赫宣" onclick="stopMusic();" class="fl">我们不该这样的-(电视剧《北上广不相信眼泪》片尾曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%82%A3%E8%8B%B1/" target="_blank" title="那英" class="fr">那英</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6418102/" target="_blank" title="默-(电影《何以笙箫默》插曲)--那英" onclick="stopMusic();" class="fl">默-(电影《何以笙箫默》插曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%AD%8F%E6%96%B0%E9%9B%A8/" target="_blank" title="魏新雨" class="fr">魏新雨</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4762774/" target="_blank" title="恋人心--魏新雨" onclick="stopMusic();" class="fl">恋人心</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BD%90%E6%99%A8/" target="_blank" title="齐晨" class="fr">齐晨</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3638735/" target="_blank" title="咱们结婚吧--齐晨" onclick="stopMusic();" class="fl">咱们结婚吧</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E6%9D%8E%E8%8D%A3%E6%B5%A9/" target="_blank" title="李荣浩" class="fr">李荣浩</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3514083/" target="_blank" title="李白--李荣浩" onclick="stopMusic();" class="fl">李白</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B/" target="_blank" title="G.E.M.邓紫棋" class="fr">G.E.M.邓紫棋</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/5245130/" target="_blank" title="喜欢你 (原唱: Beyond)--G.E.M.邓紫棋" onclick="stopMusic();" class="fl">喜欢你 (原唱: Beyond)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BA%84%E5%BF%83%E5%A6%8D/" target="_blank" title="庄心妍" class="fr">庄心妍</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6657692/" target="_blank" title="走着走着就散了--庄心妍" onclick="stopMusic();" class="fl">走着走着就散了</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%AE%B8%E5%B7%8D/" target="_blank" title="许巍" class="fr">许巍</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/100062/" target="_blank" title="曾经的你--许巍" onclick="stopMusic();" class="fl">曾经的你</a>
+Artist [ar_urlhttp://www.kuwo.cn/mingxing/%E5%88%80%E9%83%8E/, artist=刀郎]
+Music_____<a href="http://www.kuwo.cn/yinyue/90515?catalog=yueku2016" target="_blank">冲动的惩罚</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/295529?catalog=yueku2016" target="_blank">西海情歌</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/981246?catalog=yueku2016" target="_blank">爱是你我</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/708741?catalog=yueku2016" target="_blank">守候在凌晨两点的伤心酒吧(DJ版)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/90519?catalog=yueku2016" target="_blank">情人</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/125223?catalog=yueku2016" target="_blank">2002年的第一场雪</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/129386?catalog=yueku2016" target="_blank">披着羊皮的狼</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1076128?catalog=yueku2016" target="_blank">永远的兄弟(《我是特种兵》电视剧主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/203174?catalog=yueku2016" target="_blank">手心里的温柔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/981274?catalog=yueku2016" target="_blank">谢谢你</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/100084?catalog=yueku2016" target="_blank">驼铃</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/376962?catalog=yueku2016" target="_blank">十送红军</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/102868?catalog=yueku2016" target="_blank">喀什噶尔胡杨</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/5496000?catalog=yueku2016" target="_blank">2002年的第一场雪</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/95831?catalog=yueku2016" target="_blank">怀念战友</a>
+Artist [ar_urlhttp://www.kuwo.cn/mingxing/%E9%BD%90%E7%A7%A6/, artist=齐秦]
+Music_____<a href="http://www.kuwo.cn/yinyue/218086?catalog=yueku2016" target="_blank">夜夜夜夜</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/218078?catalog=yueku2016" target="_blank">不让我的眼泪陪我过夜</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/511297?catalog=yueku2016" target="_blank">无情的雨 无情的你</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/110828?catalog=yueku2016" target="_blank">外面的世界</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/150870?catalog=yueku2016" target="_blank">原来的我</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3437435?catalog=yueku2016" target="_blank">大约在冬季</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/5109010?catalog=yueku2016" target="_blank">不让我的眼泪陪我过夜</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/218090?catalog=yueku2016" target="_blank">往事随风</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/229022?catalog=yueku2016" target="_blank">月亮代表我的心</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/830227?catalog=yueku2016" target="_blank">张三的歌</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/324330?catalog=yueku2016" target="_blank">北方的狼</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/86233?catalog=yueku2016" target="_blank">大约在冬季</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/150945?catalog=yueku2016" target="_blank">火柴天堂</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6687626?catalog=yueku2016" target="_blank">大约在冬季</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/150993?catalog=yueku2016" target="_blank">思念是一种病</a>
+Artist [ar_urlhttp://www.kuwo.cn/mingxing/%E5%A7%9C%E8%82%B2%E6%81%92/, artist=姜育恒]
+Music_____<a href="http://www.kuwo.cn/yinyue/221787?catalog=yueku2016" target="_blank">再回首</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/329565?catalog=yueku2016" target="_blank">驿动的心</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/363436?catalog=yueku2016" target="_blank">再回首(1991年春节联欢晚会)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/325566?catalog=yueku2016" target="_blank">别让我一个人醉</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/325616?catalog=yueku2016" target="_blank">女人的选择</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/325568?catalog=yueku2016" target="_blank">梅花三弄</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/325556?catalog=yueku2016" target="_blank">爱我，你怕了吗?</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/67572?catalog=yueku2016" target="_blank">跟往事干杯</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/324299?catalog=yueku2016" target="_blank">多年以后</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/666004?catalog=yueku2016" target="_blank">梅花三弄(《梅花烙》电视剧片头曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/261191?catalog=yueku2016" target="_blank">爱我你怕了吗</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/647156?catalog=yueku2016" target="_blank">情难枕</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/325586?catalog=yueku2016" target="_blank">跟往事干杯</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/146772?catalog=yueku2016" target="_blank">往事只能回味</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1043428?catalog=yueku2016" target="_blank">再回首</a>
+Artist [ar_urlhttp://www.kuwo.cn/mingxing/%E8%B5%B5%E4%BC%A0/, artist=赵传]
+Music_____<a href="http://www.kuwo.cn/yinyue/6929988?catalog=yueku2016" target="_blank">每次都想呼喊你的名字</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/158864?catalog=yueku2016" target="_blank">我是一只小小鸟</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6916105?catalog=yueku2016" target="_blank">征服</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6848605?catalog=yueku2016" target="_blank">爱要怎么说出口</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6883350?catalog=yueku2016" target="_blank">Hotel California</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6906506?catalog=yueku2016" target="_blank">大地</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1043641?catalog=yueku2016" target="_blank">爱要怎么说出口</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6863834?catalog=yueku2016" target="_blank">飞得更高</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6737253?catalog=yueku2016" target="_blank">我终于失去了你(现场版)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6737258?catalog=yueku2016" target="_blank">我很丑，可是我很温柔(现场版)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/158753?catalog=yueku2016" target="_blank">我的心好乱</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1031951?catalog=yueku2016" target="_blank">爱要怎么说出口</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4406424?catalog=yueku2016" target="_blank">一颗滚石</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6203079?catalog=yueku2016" target="_blank">给所有知道我名字的人</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6274552?catalog=yueku2016" target="_blank">勇敢一点(现场版)</a>
+Artist [ar_urlhttp://www.kuwo.cn/mingxing/%E9%83%91%E6%99%BA%E5%8C%96/, artist=郑智化]
+Artist [ar_urlhttp://www.kuwo.cn/mingxing/%E9%BB%84%E5%93%81%E6%BA%90/, artist=黄品源]
+Music_____<a href="http://www.kuwo.cn/yinyue/6696820?catalog=yueku2016" target="_blank">不想说再见</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6857241?catalog=yueku2016" target="_blank">你怎么舍得我难过(CCTV音乐频道)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/136775?catalog=yueku2016" target="_blank">孤单爱情海</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/665619?catalog=yueku2016" target="_blank">就算痛的是我</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4533024?catalog=yueku2016" target="_blank">我以为</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6683126?catalog=yueku2016" target="_blank">为什么你不再爱我</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6857025?catalog=yueku2016" target="_blank">小薇(CCTV音乐频道)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/665621?catalog=yueku2016" target="_blank">桃花源</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/665620?catalog=yueku2016" target="_blank">双鱼的责任</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1226658?catalog=yueku2016" target="_blank">小薇(摇滚版)(Live)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/665624?catalog=yueku2016" target="_blank">怎么会让我失去你</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1038710?catalog=yueku2016" target="_blank">刀剑如梦(Live)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/145457?catalog=yueku2016" target="_blank">浪花一朵朵</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/145551?catalog=yueku2016" target="_blank">为何你就这样走</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4393761?catalog=yueku2016" target="_blank">我的心太乱</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/55219?catalog=yueku2016" target="_blank">水手</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/158919?catalog=yueku2016" target="_blank">星星点灯</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/322678?catalog=yueku2016" target="_blank">游戏人间</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/55241?catalog=yueku2016" target="_blank">大国民</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/158893?catalog=yueku2016" target="_blank">别哭，我最爱的人</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/158921?catalog=yueku2016" target="_blank">三十三块</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/55199?catalog=yueku2016" target="_blank">堕落天使</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6723473?catalog=yueku2016" target="_blank">星星点灯(Break Beat Mix)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3399943?catalog=yueku2016" target="_blank">水手(8090主题)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/55210?catalog=yueku2016" target="_blank">年轻时代</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/55251?catalog=yueku2016" target="_blank">小草</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/322673?catalog=yueku2016" target="_blank">上海滩</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/158918?catalog=yueku2016" target="_blank">麻花辫子</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/509790?catalog=yueku2016" target="_blank">生日快乐</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/55255?catalog=yueku2016" target="_blank">阿飞和他的那个女人</a>
+Music [mu_url=http://www.kuwo.cn/yinyue/6851229/, music=蒸发太平洋-(电影《蒸发太平洋》中文版主题曲》)]
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="歌手频道">歌手</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔">迪克牛仔</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" title="迪克牛仔概览" target="_blank">概览</a>
+Album_____<a href="http://www.kuwo.cn/album/538966/" target="_blank" title="蒸发太平洋">蒸发太平洋</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="查看迪克牛仔详细信息" class="ck">查看歌手信息&gt;&gt;</a>
+Mv_____<a href="http://www.kuwo.cn/mv/313033/" target="_blank" title="三万英尺" class="img"><img src="http://image.kuwo.cn/www/default/140-79-mv.jpg" lazy_src="http://img1.kwcdn.kuwo.cn:81/wmvpic/140/89/46/2428182533.jpg" onload="loadPic(this)" onerror="getDefaultPic(this,120,90,'mv')" width="140" height="78" alt="三万英尺"> <span class="play"><img src="http://image.kuwo.cn/yueku/play.png" width="27" height="27" alt="播放三万英尺"></span> </a>
+Mv_____<a href="http://www.kuwo.cn/mv/313033/" target="_blank" title="三万英尺" class="m_name">三万英尺</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="迪克牛仔" class="s_name">迪克牛仔</a>
+Mv_____<a href="http://www.kuwo.cn/mv/59303/" target="_blank" title="有多少爱可以重来" class="img"><img src="http://image.kuwo.cn/www/default/140-79-mv.jpg" lazy_src="http://img1.kwcdn.kuwo.cn:81/wmvpic/140/69/93/3338929331.jpg" onload="loadPic(this)" onerror="getDefaultPic(this,120,90,'mv')" width="140" height="78" alt="有多少爱可以重来"> <span class="play"><img src="http://image.kuwo.cn/yueku/play.png" width="27" height="27" alt="播放有多少爱可以重来"></span> </a>
+Mv_____<a href="http://www.kuwo.cn/mv/59303/" target="_blank" title="有多少爱可以重来" class="m_name">有多少爱可以重来</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="迪克牛仔" class="s_name">迪克牛仔</a>
+Mv_____<a href="http://www.kuwo.cn/mv/255898/" target="_blank" title="放手去爱" class="img"><img src="http://image.kuwo.cn/www/default/140-79-mv.jpg" lazy_src="http://img1.kwcdn.kuwo.cn:81/wmvpic/140/31/76/4029436354.jpg" onload="loadPic(this)" onerror="getDefaultPic(this,120,90,'mv')" width="140" height="78" alt="放手去爱"> <span class="play"><img src="http://image.kuwo.cn/yueku/play.png" width="27" height="27" alt="播放放手去爱"></span> </a>
+Mv_____<a href="http://www.kuwo.cn/mv/255898/" target="_blank" title="放手去爱" class="m_name">放手去爱</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="迪克牛仔" class="s_name">迪克牛仔</a>
+Mv_____<a href="http://www.kuwo.cn/mv/59314/" target="_blank" title="热情的沙漠" class="img"><img src="http://image.kuwo.cn/www/default/140-79-mv.jpg" lazy_src="http://img1.kwcdn.kuwo.cn:81/wmvpic/140/23/36/3861300257.jpg" onload="loadPic(this)" onerror="getDefaultPic(this,120,90,'mv')" width="140" height="78" alt="热情的沙漠"> <span class="play"><img src="http://image.kuwo.cn/yueku/play.png" width="27" height="27" alt="播放热情的沙漠"></span> </a>
+Mv_____<a href="http://www.kuwo.cn/mv/59314/" target="_blank" title="热情的沙漠" class="m_name">热情的沙漠</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/迪克牛仔/" target="_blank" title="迪克牛仔" class="s_name">迪克牛仔</a>
+Album_____<a href="http://www.kuwo.cn/album/7019/" target="_blank" title="黄金十载全精选" class="img"><img src="http://image.kuwo.cn/www/default/180-180-album.jpg" width="155" height="155" lazy_src="http://img4.kuwo.cn/star/albumcover/180/78/78/3298554615.jpg" onload="loadPic(this);" onerror="getDefaultPic(this,180,180,'album')" alt="黄金十载全精选"></a>
+Album_____<a href="http://www.kuwo.cn/album/7019/" target="_blank" title="黄金十载全精选" class="m_name">黄金十载全精选</a>
+Album_____<a href="http://www.kuwo.cn/album/117/" target="_blank" title="别港" class="img"><img src="http://image.kuwo.cn/www/default/180-180-album.jpg" width="155" height="155" lazy_src="http://img1.kuwo.cn/star/albumcover/180/25/9/3373718705.jpg" onload="loadPic(this);" onerror="getDefaultPic(this,180,180,'album')" alt="别港"></a>
+Album_____<a href="http://www.kuwo.cn/album/117/" target="_blank" title="别港" class="m_name">别港</a>
+Album_____<a href="http://www.kuwo.cn/album/10756/" target="_blank" title="风飞沙" class="img"><img src="http://image.kuwo.cn/www/default/180-180-album.jpg" width="155" height="155" lazy_src="http://img3.kuwo.cn/star/albumcover/180/34/98/2174629385.jpg" onload="loadPic(this);" onerror="getDefaultPic(this,180,180,'album')" alt="风飞沙"></a>
+Album_____<a href="http://www.kuwo.cn/album/10756/" target="_blank" title="风飞沙" class="m_name">风飞沙</a>
+Album_____<a href="http://www.kuwo.cn/album/10532/" target="_blank" title="永远的朋友 迪克牛仔 声影相随永恒系列" class="img"><img src="http://image.kuwo.cn/www/default/180-180-album.jpg" width="155" height="155" lazy_src="http://img4.kuwo.cn/star/albumcover/180/61/38/1241574883.jpg" onload="loadPic(this);" onerror="getDefaultPic(this,180,180,'album')" alt="永远的朋友 迪克牛仔 声影相随永恒系列"></a>
+Album_____<a href="http://www.kuwo.cn/album/10532/" target="_blank" title="永远的朋友 迪克牛仔 声影相随永恒系列" class="m_name">永远的朋友 迪克牛仔 声影相随永恒系列</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4059049/" target="_blank" title="酒干倘卖无--迪克牛仔" onclick="stopMusic();" class="fl">酒干倘卖无</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/245509/" target="_blank" title="你知道我在等你吗--迪克牛仔" onclick="stopMusic();" class="fl">你知道我在等你吗</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/313033/" target="_blank" title="三万英尺--迪克牛仔" onclick="stopMusic();" class="fl">三万英尺</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/59304/" target="_blank" title="梦醒时分--迪克牛仔" onclick="stopMusic();" class="fl">梦醒时分</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/59303/" target="_blank" title="有多少爱可以重来--迪克牛仔" onclick="stopMusic();" class="fl">有多少爱可以重来</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/144085/" target="_blank" title="心痛--迪克牛仔" onclick="stopMusic();" class="fl">心痛</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/255898/" target="_blank" title="放手去爱--迪克牛仔" onclick="stopMusic();" class="fl">放手去爱</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/217203/" target="_blank" title="我这个你不爱的人--迪克牛仔" onclick="stopMusic();" class="fl">我这个你不爱的人</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/217205/" target="_blank" title="爱无罪--迪克牛仔" onclick="stopMusic();" class="fl">爱无罪</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6725901/" target="_blank" title="四海-(电视剧《青岛往事》主题曲)--迪克牛仔" onclick="stopMusic();" class="fl">四海-(电视剧《青岛往事》主题曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%8A%A8%E5%8A%9B%E7%81%AB%E8%BD%A6/" target="_blank" title="动力火车" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="动力火车" width="55" height="55" lazy_src="http://img4.kuwo.cn/star/starheads/55/14/95/2328688149.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%8A%A8%E5%8A%9B%E7%81%AB%E8%BD%A6/" target="_blank" title="动力火车" class="s_name">动力火车</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E5%AE%87/" target="_blank" title="张宇" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="张宇" width="55" height="55" lazy_src="http://img2.kuwo.cn/star/starheads/55/56/20/2592783825.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E5%AE%87/" target="_blank" title="张宇" class="s_name">张宇</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%B5%B5%E4%BC%A0/" target="_blank" title="赵传" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="赵传" width="55" height="55" lazy_src="http://img2.kuwo.cn/star/starheads/55/8/22/650826146.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%B5%B5%E4%BC%A0/" target="_blank" title="赵传" class="s_name">赵传</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%A7%9C%E8%82%B2%E6%81%92/" target="_blank" title="姜育恒" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="姜育恒" width="55" height="55" lazy_src="http://img2.kuwo.cn/star/starheads/55/36/81/254090367.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%A7%9C%E8%82%B2%E6%81%92/" target="_blank" title="姜育恒" class="s_name">姜育恒</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BB%84%E5%93%81%E6%BA%90/" target="_blank" title="黄品源" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="黄品源" width="55" height="55" lazy_src="http://img4.kuwo.cn/star/starheads/55/88/26/2151162060.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BB%84%E5%93%81%E6%BA%90/" target="_blank" title="黄品源" class="s_name">黄品源</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%88%80%E9%83%8E/" target="_blank" title="刀郎" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="刀郎" width="55" height="55" lazy_src="http://img3.kuwo.cn/star/starheads/55/36/32/1940854122.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%88%80%E9%83%8E/" target="_blank" title="刀郎" class="s_name">刀郎</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BD%90%E7%A7%A6/" target="_blank" title="齐秦" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="齐秦" width="55" height="55" lazy_src="http://img4.kuwo.cn/star/starheads/55/36/68/2396297885.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BD%90%E7%A7%A6/" target="_blank" title="齐秦" class="s_name">齐秦</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%83%91%E6%99%BA%E5%8C%96/" target="_blank" title="郑智化" class="img"><img src="http://image.kuwo.cn/www/default/55-55-person.jpg" alt="郑智化" width="55" height="55" lazy_src="http://img2.kuwo.cn/star/starheads/55/26/11/520647487.jpg" onload="loadPic(this)" onerror="getDefaultPic(this, 55, 55, 'person');"></a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%83%91%E6%99%BA%E5%8C%96/" target="_blank" title="郑智化" class="s_name">郑智化</a>
+Album_____<a href="http://www.kuwo.cn/album/538966/" target="_blank" title="更多蒸发太平洋-(电影《蒸发太平洋》中文版主题曲》)的相似歌曲">更多</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%BF%AA%E5%85%8B%E7%89%9B%E4%BB%94/" target="_blank" title="迪克牛仔" class="fr">迪克牛仔</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6851229/" target="_blank" title="蒸发太平洋-(电影《蒸发太平洋》中文版主题曲》)--迪克牛仔" onclick="stopMusic();" class="fl">蒸发太平洋-(电影《蒸发太平洋》中文版主题曲》)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%AE%B8%E5%B5%A9/" target="_blank" title="许嵩" class="fr">许嵩</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6946117/" target="_blank" title="不语-(电影《不速之客》主题曲)--许嵩" onclick="stopMusic();" class="fl">不语-(电影《不速之客》主题曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E7%8E%8B%E6%99%B0/" target="_blank" title="王晰" class="fr">王晰</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929994/" target="_blank" title="Besame Mucho--王晰" onclick="stopMusic();" class="fl">Besame Mucho</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%B0%A2%E5%AE%89%E7%90%AA/" target="_blank" title="谢安琪" class="fr">谢安琪</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6916328/" target="_blank" title="山林道--谢安琪" onclick="stopMusic();" class="fl">山林道</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E7%89%9B%E5%A5%B6%40%E5%92%96%E5%95%A1/" target="_blank" title="牛奶@咖啡" class="fr">牛奶@咖啡</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6882123/" target="_blank" title="从你的全世界路过--牛奶@咖啡" onclick="stopMusic();" class="fl">从你的全世界路过</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BB%84%E8%87%B4%E5%88%97/" target="_blank" title="黄致列" class="fr">黄致列</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929987/" target="_blank" title="苦海--黄致列" onclick="stopMusic();" class="fl">苦海</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E4%BF%A1/" target="_blank" title="信" class="fr">信</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929993/" target="_blank" title="末班车--信" onclick="stopMusic();" class="fl">末班车</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E4%BF%A1%E5%93%B2/" target="_blank" title="张信哲" class="fr">张信哲</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929992/" target="_blank" title="爱的箴言--张信哲" onclick="stopMusic();" class="fl">爱的箴言</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BE%90%E4%BD%B3%E8%8E%B9/" target="_blank" title="徐佳莹" class="fr">徐佳莹</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6896346/" target="_blank" title="遗忘之前-(电视剧《女医明妃传》插曲)--徐佳莹" onclick="stopMusic();" class="fl">遗忘之前-(电视剧《女医明妃传》插曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E6%9D%8E%E5%85%8B%E5%8B%A4/" target="_blank" title="李克勤" class="fr">李克勤</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6929991/" target="_blank" title="友情岁月--李克勤" onclick="stopMusic();" class="fl">友情岁月</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%B0%9A%E9%9B%AF%E5%A9%95/" target="_blank" title="尚雯婕" class="fr">尚雯婕</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6917658/" target="_blank" title="为爱归来-(电影《卧虎藏龙:青冥宝剑》推广曲)--尚雯婕" onclick="stopMusic();" class="fl">为爱归来-(电影《卧虎藏龙:青冥宝剑》推广曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%96%9B%E4%B9%8B%E8%B0%A6/" target="_blank" title="薛之谦" class="fr">薛之谦</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6468891/" target="_blank" title="演员--薛之谦" onclick="stopMusic();" class="fl">演员</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E6%9D%A8%E5%AE%97%E7%BA%AC/" target="_blank" title="杨宗纬" class="fr">杨宗纬</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6660691/" target="_blank" title="一次就好-(电影《夏洛特烦恼》暖水曲)--杨宗纬" onclick="stopMusic();" class="fl">一次就好-(电影《夏洛特烦恼》暖水曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BC%A0%E8%B5%AB%E5%AE%A3/" target="_blank" title="张赫宣" class="fr">张赫宣</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6716077/" target="_blank" title="我们不该这样的-(电视剧《北上广不相信眼泪》片尾曲)--张赫宣" onclick="stopMusic();" class="fl">我们不该这样的-(电视剧《北上广不相信眼泪》片尾曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%82%A3%E8%8B%B1/" target="_blank" title="那英" class="fr">那英</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6418102/" target="_blank" title="默-(电影《何以笙箫默》插曲)--那英" onclick="stopMusic();" class="fl">默-(电影《何以笙箫默》插曲)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%AD%8F%E6%96%B0%E9%9B%A8/" target="_blank" title="魏新雨" class="fr">魏新雨</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4762774/" target="_blank" title="恋人心--魏新雨" onclick="stopMusic();" class="fl">恋人心</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E9%BD%90%E6%99%A8/" target="_blank" title="齐晨" class="fr">齐晨</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3638735/" target="_blank" title="咱们结婚吧--齐晨" onclick="stopMusic();" class="fl">咱们结婚吧</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E6%9D%8E%E8%8D%A3%E6%B5%A9/" target="_blank" title="李荣浩" class="fr">李荣浩</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3514083/" target="_blank" title="李白--李荣浩" onclick="stopMusic();" class="fl">李白</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B/" target="_blank" title="G.E.M.邓紫棋" class="fr">G.E.M.邓紫棋</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/5245130/" target="_blank" title="喜欢你 (原唱: Beyond)--G.E.M.邓紫棋" onclick="stopMusic();" class="fl">喜欢你 (原唱: Beyond)</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E5%BA%84%E5%BF%83%E5%A6%8D/" target="_blank" title="庄心妍" class="fr">庄心妍</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6657692/" target="_blank" title="走着走着就散了--庄心妍" onclick="stopMusic();" class="fl">走着走着就散了</a>
+Artist_____<a href="http://www.kuwo.cn/mingxing/%E8%AE%B8%E5%B7%8D/" target="_blank" title="许巍" class="fr">许巍</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/100062/" target="_blank" title="曾经的你--许巍" onclick="stopMusic();" class="fl">曾经的你</a>
+Artist [ar_urlhttp://www.kuwo.cn/mingxing/%E5%90%89%E5%85%8B%E9%9A%BD%E9%80%B8/, artist=吉克隽逸]
+Music_____<a href="http://www.kuwo.cn/yinyue/3194721?catalog=yueku2016" target="_blank">彩色的黑</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6730942?catalog=yueku2016" target="_blank">Lotion Song</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/2833390?catalog=yueku2016" target="_blank">Halo (中国好声音)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6773647?catalog=yueku2016" target="_blank">最后的恋人</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3769254?catalog=yueku2016" target="_blank">爱情发的光(电影《青蛙王国之我嘞个去》主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3220961?catalog=yueku2016" target="_blank">即刻出发 (电视剧《向着胜利前进》主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/2838046?catalog=yueku2016" target="_blank">不要怕</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3286229?catalog=yueku2016" target="_blank">一首心歌</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6751579?catalog=yueku2016" target="_blank">游爱民族</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6402915?catalog=yueku2016" target="_blank">我是女王(电影《我是女王》同名主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3418565?catalog=yueku2016" target="_blank">带我到山顶(中国好声音第一季)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/1967850?catalog=yueku2016" target="_blank">冬天里的一把火(中国好声音)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6791203?catalog=yueku2016" target="_blank">Snap</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6307408?catalog=yueku2016" target="_blank">凤阳花鼓+常回家看看+好运来+贺新年+欢乐中国年</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/3470219?catalog=yueku2016" target="_blank">月到天心处</a>
+Music [mu_url=http://www.kuwo.cn/yinyue/6741265/, music=字母歌-(电影《恶棍天使》插曲)]
+Artist [ar_urlhttp://www.kuwo.cn/mingxing/%E9%82%93%E8%B6%85/, artist=邓超]
+Music_____<a href="http://www.kuwo.cn/yinyue/6832779?catalog=yueku2016" target="_blank">无敌-(电影《美人鱼》宣传曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6662228?catalog=yueku2016" target="_blank">娘娘我错了-(电影《恶棍天使》的推广曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6738502?catalog=yueku2016" target="_blank">青苹果乐园</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6293615?catalog=yueku2016" target="_blank">超级英雄(Break Best 2015 Mix)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6783672?catalog=yueku2016" target="_blank">有情世间-(电影《恶棍天使》主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6329623?catalog=yueku2016" target="_blank">超级英雄(综艺《奔跑吧 兄弟》主题曲 伴奏版)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6251793?catalog=yueku2016" target="_blank">奔跑+热情沙漠(现场版)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6830490?catalog=yueku2016" target="_blank">娘娘我错了</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6569797?catalog=yueku2016" target="_blank">小尾巴之歌(电影《烈日灼心》片尾曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4592788?catalog=yueku2016" target="_blank">同桌的你</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6832780?catalog=yueku2016" target="_blank">无敌-(电影《美人鱼》宣传曲)-(纯音乐版)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/5843485?catalog=yueku2016" target="_blank">超级英雄(51秒铃声版)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6110661?catalog=yueku2016" target="_blank">摇篮曲 (舞台剧《分娩大师》主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/495919?catalog=yueku2016" target="_blank">只要有你(《少年包青天3》电视剧片尾曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/4853071?catalog=yueku2016" target="_blank">爱的箴言(电视剧《相爱十年》主题曲)</a>
+Music [mu_url=http://www.kuwo.cn/yinyue/6751579/, music=游爱民族]
+Artist [ar_urlhttp://www.kuwo.cn/mingxing/%E5%BC%A0%E7%A3%8A/, artist=张磊]
+Music_____<a href="http://www.kuwo.cn/yinyue/6734845?catalog=yueku2016" target="_blank">年少如风-(综艺《极速少年》主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6952559?catalog=yueku2016" target="_blank">梦想</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6840898?catalog=yueku2016" target="_blank">南山南(CCTV音乐频道)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6749560?catalog=yueku2016" target="_blank">一念天堂-(电影《一念天堂》主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6750075?catalog=yueku2016" target="_blank">一切都好-(电影《一切都好》主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6716080?catalog=yueku2016" target="_blank">妈妈</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6871300?catalog=yueku2016" target="_blank">南山南(CCTV音乐频道 29秒铃声版)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6753971?catalog=yueku2016" target="_blank">一念天堂(57秒铃声版)-(电影《一念天堂》主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6753973?catalog=yueku2016" target="_blank">一切都好(34秒铃声版)-(电影《一切都好》主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6743616?catalog=yueku2016" target="_blank">年少如风(31秒铃声版)-(综艺《极速少年》主题曲)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6908834?catalog=yueku2016" target="_blank">第01集_薛雷扫北</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6753972?catalog=yueku2016" target="_blank">一念天堂(消音伴奏版)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6752294?catalog=yueku2016" target="_blank">一切都好(消音伴奏版)</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6908893?catalog=yueku2016" target="_blank">第60集_薛雷扫北</a>
+Music_____<a href="http://www.kuwo.cn/yinyue/6908836?catalog=yueku2016" target="_blank">第03集_薛雷扫北</a>

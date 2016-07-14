@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<crawl>
+		<rootUrl>http://www.kuwo.cn</rootUrl> <!-- 域名后不加/ -->
+		<userAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36</userAgent>
+		<maxConnectionTime>20000</maxConnectionTime>
+		<maxReadTime>20000</maxReadTime>
+		<threadCount>10</threadCount>
+		<crawDepth>10</crawDepth>
+		<max>50000</max>
+		<encodeUrl >
+		http://www\.kuwo\.cn/(artist|mingxing)/.*
+		</encodeUrl>
+		<urlToolsRgx> 保存url的 rgx
+			<MusicUrlRgx>http://www\.kuwo\.cn/yinyue/.*(\?catalog=.*)?</MusicUrlRgx>
+			<MvUrlRgx>http://www\.kuwo\.cn/mv/.*/</MvUrlRgx>
+			<ArtistUrlRgx>http://www\.kuwo\.cn/artist/content\?name=.*|http://www\.kuwo\.cn/mingxing/.*/</ArtistUrlRgx>
+			<AlbumUrlRgx>http://www\.kuwo\.cn/album/.*/</AlbumUrlRgx>
+		</urlToolsRgx>
+		<ParseUrlRgx>a[href]</ParseUrlRgx> <!-- 只解析的域url jsoup的select -->
+		<readPageBean></readPageBean>
+	</crawl>

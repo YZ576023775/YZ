@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bookstore>
+asds
+  <book>  
+    <title lang="en">Harry Potter</title>  
+    <author>J K. Rowling</author>       
+    <year>2005</year>  
+    <price>29.99</price>
+  </book>
+  <book>  
+    <title lang="en">Harry Potter
+	    <author>J K. Rowling</author>       
+	    <year>2005</year>  
+	    <price>29.99</price>
+	</title>  
+    <author>J K. Rowling</author>       
+    <year>2005</year>  
+    <price>29.99</price>
+  </book>
+</bookstore>

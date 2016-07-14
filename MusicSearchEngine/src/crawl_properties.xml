@@ -1,0 +1,78 @@
+
+<root>
+	<crawl>
+		<rootUrl>http://music.baidu.com</rootUrl>
+		<userAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36</userAgent>
+		<maxConnectionTime>20000</maxConnectionTime>
+		<maxReadTime>20000</maxReadTime>
+		<threadCount>10</threadCount>
+		<crawDepth>5</crawDepth>
+		<max>2000</max>
+		<encodeUrl >
+		</encodeUrl>
+		<urlToolsRgx> 保存url的 rgx
+			<MusicUrlRgx>http://music\.baidu\.com/song/.*</MusicUrlRgx>
+			<MvUrlRgx>http://music\.baidu\.com/mv/.*</MvUrlRgx>
+			<ArtistUrlRgx>http://music\.baidu\.com/artist/.*</ArtistUrlRgx>
+			<AlbumUrlRgx>http://music\.baidu\.com/album/.*</AlbumUrlRgx>		<!-- error -->
+		</urlToolsRgx>
+		<ParseUrlRgx>a[href]</ParseUrlRgx> <!-- 只解析的域url jsoup的select -->
+		<readPageBean>com.yz.readpagebean.BaiduReadPage</readPageBean>
+	</crawl>
+
+	<crawl>
+		<rootUrl>http://www.kuwo.cn</rootUrl> <!-- 域名后不加/ -->
+		<userAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36</userAgent>
+		<maxConnectionTime>20000</maxConnectionTime>
+		<maxReadTime>20000</maxReadTime>
+		<threadCount>10</threadCount>
+		<crawDepth>4</crawDepth>
+		<max>200</max>
+		<encodeUrl >
+		http://www\.kuwo\.cn/(artist|mingxing)/.*
+		</encodeUrl>
+		<urlToolsRgx> 保存url的 rgx
+			<MusicUrlRgx>http://www\.kuwo\.cn/yinyue/.*(\?catalog=.*)?</MusicUrlRgx>
+			<MvUrlRgx>http://www\.kuwo\.cn/mv/.*/</MvUrlRgx>
+			<ArtistUrlRgx>http://www\.kuwo\.cn/artist/content\?name=.*|http://www\.kuwo\.cn/mingxing/.*/</ArtistUrlRgx>
+			<AlbumUrlRgx>http://www\.kuwo\.cn/album/.*/</AlbumUrlRgx>
+		</urlToolsRgx>
+		<ParseUrlRgx>a[href]</ParseUrlRgx> <!-- 只解析的域url jsoup的select -->
+		<readPageBean></readPageBean>
+	</crawl>
+	<crawl>
+		<rootUrl>http://www.xiami.com</rootUrl> <!-- 域名后不加/ -->
+		<userAgent>Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36</userAgent>
+		<maxConnectionTime>20000</maxConnectionTime>
+		<maxReadTime>20000</maxReadTime>
+		<threadCount>10</threadCount>
+		<crawDepth>4</crawDepth>
+		<max>2003</max>
+		<encodeUrl >
+		</encodeUrl>
+		<urlToolsRgx> 保存url的 rgx
+			<MusicUrlRgx>http://www\.xiami\.com/song/[0-9]+.*</MusicUrlRgx>
+			<MvUrlRgx></MvUrlRgx>
+			<ArtistUrlRgx>http://www\.xiami\.com/artist/[0-9]+.*</ArtistUrlRgx>
+			<AlbumUrlRgx>http://www\.xiami\.com/album/[0-9]+.*</AlbumUrlRgx>
+		</urlToolsRgx>
+		<ParseUrlRgx>a[href]</ParseUrlRgx> <!-- 只解析的域url jsoup的select -->
+		<readPageBean>com.yz.readpagebean.XiamiReadPage</readPageBean>
+		
+	</crawl>
+<!-- 	<crawl>
+		<rootUrl>http://music.163.com</rootUrl>
+		<threadCount>10</threadCount>
+		<crawDepth>4</crawDepth>
+		<max>200</max>
+		<encodeUrl >
+		</encodeUrl>
+		<urlToolsRgx> 保存url的 rgx
+			<MusicUrlRgx>http://music\.163\.com/song\?id=.*</MusicUrlRgx>
+			<MvUrlRgx>http://music\.163\.com/mv\?id=.*</MvUrlRgx>
+			<ArtistUrlRgx>http://music\.163\.com/artist\?id=.*</ArtistUrlRgx>
+			<AlbumUrlRgx>http://music\.163\.com/album\?id=.*</AlbumUrlRgx>
+		</urlToolsRgx>
+		<ParseUrlRgx>a[href]</ParseUrlRgx> 只解析的域url jsoup的select
+	</crawl> -->
+</root>
