@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+  <head>
+    <title>新闻列表</title>
+	
+    <meta http-equiv="keywords" content="keyword1,keyword2,keyword3">
+    <meta http-equiv="description" content="this is my page">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    
+    <!--<link rel="stylesheet" type="text/css" href="./styles.css">-->
+	<link rel="stylesheet" href="../css/bootstrap.css" type="text/css"></link>
+	<link rel="stylesheet" href="../css/bootstrap.min.css" type="text/css"></link>
+	<script type="text/javascript" src="../js/jquery-1.6.4.min.js"></script>
+	<script type="text/javascript" src="../js/bootstrap.js"></script>
+		<script  src="../js/bootstrap.min.js"></script>
+  </head>
+  <script>
+ 
+
+  $(function(){
+  
+ 
+  
+  var index=0;
+  $.getJSON("http://localhost:8080/javaweb/servlet/NewsServlet?methodName=findAll&mobile=1",
+  function(result){
+  	$.each(result,function(index,item){
+  		$('ul[class="list=group"]:eq(0)').append('<li class="list-group-item" data-title='+item.title+' data-news_desc='+item.news_desc+' data-toggle="modal" data-target="#myModal">'+item.title+'</li>');
+
+  	});
+  });
+  
+  button.onclick=function(){
+  	index++;
+  	$.getJSON("http://localhost:8080/javaweb/servlet/NewsServlet?methodName=findAll&mobile=1&currentPageIndex="+index,
+  	function(result){
+  	$.each(result,function(index,item){
+  		$('ul[class="list=group"]:eq(0)').append('<li class="list-group-item" data-title='+item.title+' data-news_desc='+item.news_desc+' data-toggle="modal" data-target="#myModal">'+item.title+'</li>');
+
+  	});
+  });
+  }
+ });
+var news_desc=$("#title").data("news_desc");
+  </script>
+  <body>
+    <ul class="list=group">
+    
+    </ul>
+    
+    <ul id="page" class="pager" style="float: left">
+		<li class="pervious active">
+				<button id="button" style="margin-left:50px" class="btn btn-lg btn-primary btn-block">显示更多</button>
+		</li>
+	</ul>
+	<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">新闻详情</h4>
+      </div>
+      <div class="modal-body">
+       
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+        <button type="button" class="btn btn-primary">确定</button>
+      </div>
+    </div>
+  </div>
+</div>
+  </body>
+</html>
